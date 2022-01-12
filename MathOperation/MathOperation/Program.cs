@@ -15,10 +15,10 @@ namespace MathOperation
             switch (operation)
             {
                 case "+":
-                    Console.WriteLine(a + b);
+                    
                     break;
                 case "-":
-                    
+                    Console.WriteLine(a - b);
                     break;
                 case "*":
                     
