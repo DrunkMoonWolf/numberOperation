@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\gitProject\\numberOperation\\MathOperation\\MathOperation\\MathOperation.csproj": {}
+    "D:\\ТРПО\\gitProject\\numberOperation\\MathOperation\\MathOperation\\MathOperation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\gitProject\\numberOperation\\MathOperation\\MathOperation\\MathOperation.csproj": {
+    "D:\\ТРПО\\gitProject\\numberOperation\\MathOperation\\MathOperation\\MathOperation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\gitProject\\numberOperation\\MathOperation\\MathOperation\\MathOperation.csproj",
+        "projectUniqueName": "D:\\ТРПО\\gitProject\\numberOperation\\MathOperation\\MathOperation\\MathOperation.csproj",
         "projectName": "MathOperation",
-        "projectPath": "C:\\Users\\user\\Desktop\\gitProject\\numberOperation\\MathOperation\\MathOperation\\MathOperation.csproj",
+        "projectPath": "D:\\ТРПО\\gitProject\\numberOperation\\MathOperation\\MathOperation\\MathOperation.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\gitProject\\numberOperation\\MathOperation\\MathOperation\\obj\\",
+        "outputPath": "D:\\ТРПО\\gitProject\\numberOperation\\MathOperation\\MathOperation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
